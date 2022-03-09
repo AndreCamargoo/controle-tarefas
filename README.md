@@ -35,6 +35,10 @@ Check the [Download PHP](https://www.php.net/downloads.php)
 > MAIL_FROM_ADDRESS=null  
 > MAIL_FROM_NAME="${APP_NAME}"
 
+3. Rodar as migrações
+   ```
+   php artisan migrate
+
 ### Requisitos
 
 - [x] Deve ser possível fazer um novo cadastro
