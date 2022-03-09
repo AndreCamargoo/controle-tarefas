@@ -3,8 +3,8 @@
 ## Controle de tarefas
 
 <p>
-Projeto de gerenciamento de **tarefas** <br>
-Implementando o login com o **Laravel UI** envio de e-mails e a exportação de arquivos XLSX, CSV e PDF
+Projeto de gerenciamento de __ tarefas __ <br>
+Implementando o login com o __ Laravel UI __ envio de e-mails e a exportação de arquivos XLSX, CSV e PDF
 </p>
 
 
