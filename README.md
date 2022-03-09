@@ -2,10 +2,9 @@
 
 ## Controle de tarefas
 
-<p>
-Projeto de gerenciamento de __tarefas__ <br>
-Implementando o login com o __Laravel UI__ envio de e-mails e a exportação de arquivos XLSX, CSV e PDF
-</p>
+Projeto de gerenciamento de **tarefas**
+Implementando o login com o **Laravel UI** envio de e-mails e a exportação de arquivos XLSX, CSV e PDF
+
 
 
 ## PHP Version
