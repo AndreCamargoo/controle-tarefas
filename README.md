@@ -2,7 +2,7 @@
 
 ## Controle de tarefas
 
-Projeto de **gerenciamento de tarefas**
+Projeto de **gerenciamento de tarefas**  
 Implementando o login com o **Laravel UI** envio de e-mails e a exportação de arquivos XLSX, CSV e PDF
 
 
