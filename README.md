@@ -1,21 +1,21 @@
+[![PHPStan](https://img.shields.io/badge/PHPStan-enabled-brightgreen.svg?style=flat)](https://github.com/phpstan/phpstan)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 ## Controle de tarefas
 
 Projeto de **gerenciamento de tarefas**  
-Implementando o login com o **Laravel UI** envio de e-mails e a exportação de arquivos XLSX, CSV e PDF
+Implementando o login com o **Laravel UI** envio de **E-mails** e a exportação de arquivos **XLSX**, **CSV** e **PDF**
 
+# Requisitos
 
+- PHP 7.4 ou superior. Check the [Download PHP](https://www.php.net/downloads.php)
 
-## PHP Version
+### GitHub
 
-- 7.4
-
-## Instação do laravel
-
-```
-composer create-project --prefer-dist laravel/laravel controle_tarefas "8.5.9"
-```
+1. Clone o repositório **Controle de tarefas** de [https://github.com/AndreCamargoo/controle-tarefas.git]() para uma pasta na webroot do seu servidor, por exemplo. `~/webroot/andre-camargo`. Launch a **terminal** or **console** and navigate to the webroot folder:
+   ```
+   $ cd ~/webroot
+   $ git clone https://github.com/AndreCamargoo/controle-tarefas.git
 
 ### Requisitos
 
