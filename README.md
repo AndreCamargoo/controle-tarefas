@@ -11,7 +11,7 @@ Implementando o login com o **Laravel UI** envio de **E-mails** e a exportação
 - PHP 7.4 ou superior.  
 Check the [Download PHP](https://www.php.net/downloads.php)
 
-### GitHub
+### Instação do projeto
 
 1. Clone o repositório **Controle de tarefas** de [https://github.com/AndreCamargoo/controle-tarefas.git]() para uma pasta na webroot do seu servidor, por exemplo. `~/webroot/andre-camargo`. Launch a **terminal** or **console** and navigate to the webroot folder:
    ```
