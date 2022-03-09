@@ -18,6 +18,23 @@ Check the [Download PHP](https://www.php.net/downloads.php)
    $ cd ~/webroot
    $ git clone https://github.com/AndreCamargoo/controle-tarefas.git
 
+2. Após clonar o repositorio, configure o arquivo .env  
+> DB_CONNECTION=mysql
+> DB_HOST=127.0.0.1
+> DB_PORT=3306
+> DB_DATABASE=laravel
+> DB_USERNAME=root
+> DB_PASSWORD=  
+
+> MAIL_MAILER=smtp
+> MAIL_HOST=mailhog
+> MAIL_PORT=1025
+> MAIL_USERNAME=null
+> MAIL_PASSWORD=null
+> MAIL_ENCRYPTION=null
+> MAIL_FROM_ADDRESS=null
+> MAIL_FROM_NAME="${APP_NAME}"
+
 ### Requisitos
 
 - [x] Deve ser possível fazer um novo cadastro
