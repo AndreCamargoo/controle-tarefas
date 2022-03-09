@@ -8,7 +8,8 @@ Implementando o login com o **Laravel UI** envio de **E-mails** e a exportação
 
 # Requisitos
 
-- PHP 7.4 ou superior. Check the [Download PHP](https://www.php.net/downloads.php)
+- PHP 7.4 ou superior.  
+Check the [Download PHP](https://www.php.net/downloads.php)
 
 ### GitHub
 
